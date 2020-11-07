@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014668107933",
+    "firebase_url": "https://aliexpress-ae9cc.firebaseio.com",
+    "project_id": "aliexpress-ae9cc",
+    "storage_bucket": "aliexpress-ae9cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014668107933:android:c9a1a5f64e4cef3f80b474",
+        "android_client_info": {
+          "package_name": "com.kostya_zinoviev.aliexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014668107933-1aa8uldng2e4ems29ipb6pbqek14a145.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qR5dSRpvVvfZzO6-vLRje4SWNAUegu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014668107933-1aa8uldng2e4ems29ipb6pbqek14a145.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
